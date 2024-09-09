@@ -17,8 +17,7 @@ This repository contains the smart contract for **AirMiles Token (AM)**, an ERC2
 
 ## Contract Address 🏷️
 The contract is deployed and verified at:  
-**Address**: [[0xYourContractAddress](https://sepolia.etherscan.io/address/0x8613f8034fD15Daa366a2e0f811Bdd125f259f5f#code)]
-
+**Address**: 0x8613f8034fD15Daa366a2e0f811Bdd125f259f5f
 ## Token Use Cases 🛫
 1. **Earning AirMiles**:
    - Customers earn AirMiles Tokens when they purchase flight tickets. Tokens are minted and transferred to the customer's wallet.
