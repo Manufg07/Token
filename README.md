@@ -7,7 +7,7 @@ This repository contains the smart contract for **AirMiles Token (AM)**, an ERC2
 - **Symbol**: AM
 - **Decimals**: 18
 - **Total Supply**: 100 AM (initially minted to the deployer/admin)
-- **Verified and Published Contract**: [Etherscan](https://etherscan.io/) (Add contract link after deployment)
+- **Verified and Published Contract**: [Etherscan](https://sepolia.etherscan.io/address/0x8613f8034fD15Daa366a2e0f811Bdd125f259f5f#code)
 
 ## Key Features ⭐
 - **ERC20 Standard**: Ensures compatibility with wallets and exchanges that support ERC20 tokens.
