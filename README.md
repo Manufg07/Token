@@ -1,10 +1,10 @@
-# AirMiles Token (AM) - ERC20
+# AirMiles Token (AT) - ERC20
 
 This repository contains the smart contract for **AirMiles Token (AM)**, an ERC20 token designed to tokenize airline loyalty rewards. With AirMiles Tokens, customers can earn, trade, and redeem tokens based on their flight purchases and other travel services.
 
 ## Contract Details 📜
 - **Token Name**: AirMiles
-- **Symbol**: AM
+- **Symbol**: AT
 - **Decimals**: 18
 - **Total Supply**: 100 AM (initially minted to the deployer/admin)
 - **Verified and Published Contract**: [Etherscan](https://sepolia.etherscan.io/address/0x8613f8034fD15Daa366a2e0f811Bdd125f259f5f#code)
